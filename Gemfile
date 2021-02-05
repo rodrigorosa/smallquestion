@@ -10,7 +10,7 @@ gem 'devise_token_auth'
 gem 'rack-cors'
 gem 'rack-attack'
 
-gem 'friendly_id', '~> 5.1.0'
+gem 'friendly_id', '~> 5.4.2'
 
 gem 'rails', '~> 5.0.7'
 gem 'pg', '~> 0.18'
