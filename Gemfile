@@ -13,7 +13,7 @@ gem 'rack-attack'
 gem 'friendly_id', '~> 5.1.0'
 
 gem 'rails', '~> 5.0.7'
-gem 'pg', '~> 0.18'
+gem 'pg', '~> 1.2'
 gem 'puma', '~> 3.12'
 
 group :development, :test do
