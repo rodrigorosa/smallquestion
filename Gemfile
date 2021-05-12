@@ -14,7 +14,7 @@ gem 'friendly_id', '~> 5.1.0'
 
 gem 'rails', '~> 5.0.7'
 gem 'pg', '~> 0.18'
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 5.3'
 
 group :development, :test do
   gem 'rspec-rails', '~> 4.0'
